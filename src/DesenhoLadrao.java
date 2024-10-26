@@ -1,0 +1,57 @@
+public class DesenhoLadrao {
+    public static void mostrarDesenho() {
+        System.out.println("                                                      ");
+        System.out.println("                           :+**#*+-                                ");
+        System.out.println("                          .###*+==*+:                              ");
+        System.out.println("                          .*=--:=***=                               ");
+        System.out.println("                          -@##%*-+**=                               ");
+        System.out.println("                          .%++=-:+*+*:                              ");
+        System.out.println("                          :%%#*+=+%%#=                              ");
+        System.out.println("                         .#@%#+=+*++*.                              ");
+        System.out.println("                        .+%@@@@#%#***. ...                          ");
+        System.out.println("                          =@@%%%#%%*%%%#*+*-                        ");
+        System.out.println("                       .=+#*#+**#%%%@@@%###+#-                      ");
+        System.out.println("                     :+==*##*::-*%%@@@%@@+%%-%-                     ");
+        System.out.println("                    -==++*##=-**%%@@@@@#@@*%%#*                     ");
+        System.out.println("                    =+*####*.:-%%@@@@@@@@@%%#=:                     ");
+        System.out.println("                    -+###%%%+=*@@@@#%%%%@@%**=-.                    ");
+        System.out.println("                   .:=###%%@=+#@@@@@@@@@@%#%%=--.                   ");
+        System.out.println("                   .-=*#%%%%+*%@@@@@@@@@@%#+-.                    ");
+        System.out.println("                  .:-=+#%%%%%%%@@@@@@@@@%*#++*=-                    ");
+        System.out.println("                    =+*#%%%%@@@@@@@@%%%%++*#++%*+=.                ");
+        System.out.println("                   -==+#%%%@%%@@@@@%%%#*+=*#%@@%=:                  ");
+        System.out.println("                  :=+++#%%%%#%@@@@%%%%*-   #@@%+*#*-                ");
+        System.out.println("                  =***###%%%#%@@@@@@#++-   +@@%%#%@=                ");
+        System.out.println("                  :***##*%%%@%#%%%@@@@#+.  #%@@@@@@@+               ");
+        System.out.println("                  =*+*##%%%%*#++%@@@@%**:  :%@@@@@@*                ");
+        System.out.println("                   +##**%%%##%#%%#%%%@%%*.  %%@%%@@=                ");
+        System.out.println("                   -##%@@@@%#**%@@%%**#%#**=-=@@@@@.                ");
+        System.out.println("                   :##%@@@@@@@@@@@%%%%%@%%*=  #@@@@:                ");
+        System.out.println("                   :##%@@@@@@@@@@@@%**#@%#*+  +@@@@.     .         ");
+        System.out.println("                    =%@@@@@@@@:%@@%@@@##@@#.:-#@@@#.   .=-         ");
+        System.out.println("                    #%@%@@@%@@+.#@@%%%*=+#+.*#@@*+=+#**#=          ");
+        System.out.println("                   +%@@%@@#%@@@%:.:::.....  -*@%##@*-.              ");
+        System.out.println("                  .%#%@%@%#@@@@@@@@@@##**++-.#%%@%.                ");
+        System.out.println("                  :#+*##@###+**%@@@@@%*+#*-+.                       ");
+        System.out.println("                  *#+%#%#*#*+*  *@@@@@*-+#+=#                       ");
+        System.out.println("                 :%##%#%#+*++:   =@@@@@=-+#+#*                      ");
+        System.out.println("                 :%%@@%@%##*=     %@@@@%++#%@%.                     ");
+        System.out.println("                  -%@@@@%%*        :%@@@@%@@@*                      ");
+        System.out.println("                  :%%%@%%**-         @@@@@@@@%#+-                   ");
+        System.out.println("                 -*%%%%%#%+:.        =@@@@%@%%-                     ");
+        System.out.println("                   %@%%%%%*         :.=@@@@@@@#                     ");
+        System.out.println("                  .%%@@%%%*             *@@@@@%                     ");
+        System.out.println("                  .%%%@@%#=             -@@@@@@@*                   ");
+        System.out.println("                  =%%%%%%#.            :@@@@@@@@#                   ");
+        System.out.println("                  *%%%@%%%#             +@@@@@@@%                   ");
+        System.out.println("                  =%%@@@@%%=            .%@@@@@@@%                  ");
+        System.out.println("                  -@@@%@@%+              #@@@%@@@=                  ");
+        System.out.println("                  -%#%%%%%-               @@@@@@*                   ");
+        System.out.println("                   +%%@@%%:               :@@@@@*                   ");
+        System.out.println("                 *###%%%%%-                @@@@@%.                  ");
+        System.out.println("               :++*%%%%%@*                 %@@@@@*                  ");
+        System.out.println("              *+%%%@%=.:.                  .+@%#%#=:                ");
+        System.out.println("              =**++=                        .@@@@##:                ");
+        System.out.println("                                             .=#@@#.                ");
+    }
+}

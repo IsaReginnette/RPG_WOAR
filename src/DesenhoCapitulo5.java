@@ -1,0 +1,50 @@
+public class DesenhoCapitulo5 {
+    public static void mostrarDesenho() {
+        System.out.println("   _____            _ _         _         _____     ____                             /\\/|             _        _    _                _   ");
+        System.out.println("  / ____|          (_) |       | |       | ____|   / __ \\                           |/\\/             | |      | |  | |              | |  ");
+        System.out.println(" | |     __ _ _ __  _| |_ _   _| | ___   | |__(_) | |  | |   ___ ___  _ __ __ _  ___ __ _  ___     __| | ___  | |__| | __ _ ___  ___| |_ ");
+        System.out.println(" | |    / _` | '_ \\| | __| | | | |/ _ \\  |___ \\   | |  | |  / __/ _ \\| '__/ _` |/ __/ _` |/ _ \\   / _` |/ _ \\ |  __  |/ _` / __|/ _ \\ __|");
+        System.out.println(" | |___| (_| | |_) | | |_| |_| | | (_) |  ___) |  | |__| | | (_| (_) | | | (_| | (_| (_| | (_) | | (_| |  __/ | |  | | (_| \\__ \\  __/ |_ ");
+        System.out.println("  \\_____\\__,_| .__/|_|\\__|\\__,_|_|\\___/  |____(_)  \\____/   \\___\\___/|_|  \\__,_|\\___\\__,_|\\___/   \\__,_|\\___| |_|  |_|\\__,_|___/\\___|__|");
+        System.out.println("             | |                                                                 )_)                                                      ");
+        System.out.println("             |_|                                                                                                                          ");
+        System.out.println("                                                                                          .-\"    `-.      ,                               ");
+        System.out.println("                            .'          '.   /j\\                              ");
+        System.out.println("                           /              \\,/:/#\\                /\\           ");
+        System.out.println("                          ;              ,//' '/#\\              //#\\          ");
+        System.out.println("                          |             /' :   '/#\\            /  /#\\         ");
+        System.out.println("                          :         ,  /' /'    '/#\\__..--\"\"\"/    /#\\__      ");
+        System.out.println("                           \\       /'\\'-._:__    '/#\\        ;      /#, \"\"---");
+        System.out.println("                            `-.   / ;#\\']\" ; \"\"--./#J       ':____...!       ");
+        System.out.println("                               `-/   /#\\  J  [;[;[;Y]         |      ;        ");
+        System.out.println("             \"\"\"---....             __.--\"/    '/#\\ ;   \" \"  |     !    |   #! |        ");
+        System.out.println("             \"\"--.. _.--\"\"     /      ,/#\\'-..____.;_,   |    |   '  |        ");
+        System.out.println("                   \"-.        :_....___,/#} \"####\" | '_.-\",   | #['  |        ");
+        System.out.println("                      '-._      |[;[;[;[;|         |.;'  /;\\  |      |        ");
+        System.out.println("                      ,   `-.   |        :     _   .;'    /;\\ |   #\" |        ");
+        System.out.println("                      !      `._:      _  ;   ##' .;'      /;\\|  _,  |        ");
+        System.out.println("                     .#\\\"\"\"---..._    ';, |      .;{___     /;\\  ]#' |__....--");
+        System.out.println("          .--.      ;'/#\\         \\    ]! |       \"| , \"\"--./_J    /         ");
+        System.out.println("         /  '%;    /  '/#\\         \\   !' :        |!# #! #! #|    :`.__      ");
+        System.out.println("        i__..'%] _:_   ;##J         \\      :\"#...._!   '  \"  \"|__  |    `--.._");
+        System.out.println("         | .--\"\"!|\"\"\"  |\"\"\"----...J     | '##\"\" `-._       |  \"\"\"---.._    ");
+        System.out.println("     ____: |      #|      |         #|     |          \"]      ;   ___...-\"T,  ");
+        System.out.println("    /   :  :      !|      |   _______!_    |           |__..--;\"\"     ,;MM;  ");
+        System.out.println("   :____| :    .-.#|      |  /\\      /#\\   |          /'               ''MM;  ");
+        System.out.println("   |\"\"\": |   /   \\|   .----+  ;      /#\\  :___..--\"\";                  ,'MM; ");
+        System.out.println("  _Y--:  |  ;     ;.-'      ;  \\______/#: /         ;                  ''MM; ");
+        System.out.println(" /    |  | ;_______;     ____!  |\"##\"\"MM!         ;                    ,'MM;");
+        System.out.println("!_____|  |  |\"#\"#\"|____.'\"\"##\"  |       :         ;                     ''MM  ");
+        System.out.println(" | \"\"\"--!._|     |##\"\"         !       !         :____.....-------\"\"\"\"\" |'");
+        System.out.println(" |          :     |______                        ___!_ \"#\"\"#\"\"#\"\"#\"\"#\"\"#\"|  ");
+        System.out.println("__|          ;     |MM\"MM\"\"\"\"---..._______...--\"\"MM\"MM]                   |   ");
+        System.out.println("  \"\\-.      :      |#                                  :                   |  ");
+        System.out.println("    /#'.    |      /##,                                !                   |  ");
+        System.out.println("   .',/'\\   |       #:#,                                ;       .==.       |  ");
+        System.out.println("  /\"'\\#\"\\',.|       ##;#,                               !     ,'||||',     |  ");
+        System.out.println("        /;/`:       ######,          ____             _ :     M||||||M     |  ");
+        System.out.println("       ###          /;\"\\.__\"-._   \"\"                   |===..M!!!!!!M_____|  ");
+        System.out.println("                           `--..`--.._____             _!_                    ");
+        System.out.println("                                          `--...____,=\"._.'`-.____                     ");
+    }
+}
